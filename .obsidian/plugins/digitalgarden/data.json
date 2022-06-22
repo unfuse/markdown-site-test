@@ -1,0 +1,14 @@
+{
+  "githubRepo": "space-game-notes-public",
+  "githubToken": "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",
+  "githubUserName": "unfuse",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}

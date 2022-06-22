@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "23ce71b990ceb192",
+    "type": "split",
+    "children": [
+      {
+        "id": "231977ddb5583bab",
+        "type": "leaf",
+        "dimension": 50.12738853503185,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Private/Special DM Notes.md",
+            "mode": "source"
+          }
+        },
+        "group": "2d3798d24cccb42d"
+      },
+      {
+        "id": "73ff0afd4b59389b",
+        "type": "leaf",
+        "dimension": 49.87261146496815,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Private/Special DM Notes.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2d3798d24cccb42d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a55fcb6f6c54973b",
+    "type": "split",
+    "children": [
+      {
+        "id": "294e61f149763148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8c33aefae99c42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e4b4e68e5b1725f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#private",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fcd3cf8d78d2698",
+    "type": "split",
+    "children": [
+      {
+        "id": "afe614bba6aeb0f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5175648a05937f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Private/Special DM Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4c4f1ecfa4b92276",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "231977ddb5583bab",
+  "lastOpenFiles": [
+    "Private/Special DM Notes.md",
+    "Public/Library/Humans.md",
+    "Public/Library/Scimmians.md",
+    "Public/Home.md",
+    "Public/Notes/SomeNote.md"
+  ]
+}
